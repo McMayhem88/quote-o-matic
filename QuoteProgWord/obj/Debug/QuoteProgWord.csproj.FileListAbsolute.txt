@@ -1,0 +1,15 @@
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\QuoteProgWord.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\QuoteProgWord.pdb
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\QuoteProgWord.dll.manifest
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\QuoteProgWord.vsto
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\Microsoft.Office.Tools.Word.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\obj\Debug\QuoteProgWord.csprojResolveAssemblyReference.cache
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\obj\Debug\QuoteProgWord.Properties.Resources.resources
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\obj\Debug\QuoteProgWord.csproj.GenerateResource.Cache
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\obj\Debug\QuoteProgWord.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWord\obj\Debug\QuoteProgWord.pdb

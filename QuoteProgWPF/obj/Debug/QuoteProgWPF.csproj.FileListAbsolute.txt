@@ -1,0 +1,45 @@
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\QuoteProgWPF.exe.config
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\QuoteProgWPF.exe
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\QuoteProgWPF.pdb
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\MainWindow.g.cs
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\App.g.cs
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF_MarkupCompile.cache
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF_MarkupCompile.lref
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\MainWindow.baml
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.g.resources
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.Properties.Resources.resources
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.csproj.GenerateResource.Cache
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.exe
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.pdb
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\Interop.LCC11.dll
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.csproj.ResolveComReference.cache
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\QuoteProgWPF.exe.config
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\QuoteProgWPF.exe
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\QuoteProgWPF.pdb
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.csprojResolveAssemblyReference.cache
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.csproj.ResolveComReference.cache
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\App.g.cs
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF_MarkupCompile.cache
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF_MarkupCompile.lref
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\MainWindow.baml
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.g.resources
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.Properties.Resources.resources
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.csproj.GenerateResource.Cache
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.exe
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.pdb
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\QuoteProgWPF.csprojResolveAssemblyReference.cache
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\ItemWindow.g.cs
+C:\Users\jeastwood\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\ItemWindow.baml
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\ItemWindow.g.cs
+C:\Users\Chuck McMackin\Documents\Visual Studio 2017\Projects\Quote-o-Matic\QuoteProgWPF\obj\Debug\ItemWindow.baml

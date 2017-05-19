@@ -1,0 +1,15 @@
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\QuoteProgExcel.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\QuoteProgExcel.pdb
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\QuoteProgExcel.dll.manifest
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\QuoteProgExcel.vsto
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\Microsoft.Office.Tools.Excel.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\obj\Debug\QuoteProgExcel.csprojResolveAssemblyReference.cache
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\obj\Debug\QuoteProgExcel.Properties.Resources.resources
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\obj\Debug\QuoteProgExcel.csproj.GenerateResource.Cache
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\obj\Debug\QuoteProgExcel.dll
+c:\users\jeastwood\documents\visual studio 2017\Projects\Quote-o-Matic\QuoteProgExcel\obj\Debug\QuoteProgExcel.pdb
